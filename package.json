@@ -5,7 +5,8 @@
 	"main": "content.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "rollup -c -w"
+		"dev": "rollup -c -w",
+		"zip": "bestzip extension.zip dist/*"
 	},
 	"keywords": [],
 	"author": "",
@@ -16,6 +17,7 @@
 		"@rollup/plugin-typescript": "^8.3.2",
 		"@typescript-eslint/eslint-plugin": "^5.25.0",
 		"@typescript-eslint/parser": "^5.25.0",
+		"bestzip": "^2.2.1",
 		"eslint": "^8.16.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-prettier": "^4.0.0",
