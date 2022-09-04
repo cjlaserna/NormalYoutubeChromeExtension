@@ -1,0 +1,573 @@
+{
+	"data": {
+		"streams": {
+			"edges": [
+				{
+					"cursor": "eyJzIjo3NzQyOC45NDQwMTU0MDI1NywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "39461021832",
+						"title": "18+ #ad 🔴CLICK NOW🔴MASSIVE JUICER🔴PROBABLY LONG🔴INSANE🔴INTERGALACTICAL STREAM🔴ALIEN FRIENDLY🔴COSMIC INSANE🔴GAMEPLAY FROM MARS🔴CRAZY🔴",
+						"viewersCount": 77428,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "xQc"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							},
+							{
+								"id": "64d9afa6-139a-48d5-ab4e-51d0a92b22de",
+								"localizedName": "Auditory ASMR"
+							},
+							{
+								"id": "52d7e4cc-633d-46f5-818c-bb59102d9549",
+								"localizedName": "Vtuber"
+							},
+							{
+								"id": "6606e54c-f92d-40f6-8257-74977889ccdd",
+								"localizedName": "Anime"
+							},
+							{
+								"id": "2193eee1-b8f0-43bd-a6d9-dba8a67528a1",
+								"localizedName": "ADHD"
+							}
+						],
+						"game": {
+							"name": "Slots"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjozNzQ1MS41MjI5MTU0NzkxNSwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46498979453",
+						"title": "TÍTULO DA LIVE!!!!!!!!!",
+						"viewersCount": 37451,
+						"language": "PT",
+						"broadcaster": {
+							"displayName": "casimito"
+						},
+						"tags": [
+							{
+								"id": "39ee8140-901a-4762-bfca-8260dea1310f",
+								"localizedName": "Portuguese"
+							},
+							{
+								"id": "4ada413e-c7c4-4fc0-b3d6-ce4b98e0d5e3",
+								"localizedName": "Football / Soccer"
+							}
+						],
+						"game": {
+							"name": "Sports"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjozMzA4Mi4zOTM0NDkxNDU0NjQsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "45492411612",
+						"title": "playing Genshin Impact for the first time EVER #genshinimpact #genshinimpactpartner",
+						"viewersCount": 33082,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "dreamwastaken"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Genshin Impact"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoyNTMzMi45OTEzODE5ODY1MywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46499811965",
+						"title": "ultraviolet // !socials",
+						"viewersCount": 25332,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "aceu"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Apex Legends"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxOTIwOC4yMjM3OTE2Njg0NzUsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "40835409403",
+						"title": "mythic gold games. !gfuel !merch - @summit1g",
+						"viewersCount": 19208,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "summit1g"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							},
+							{
+								"id": "3e10beee-52d8-4e68-89b7-dc4f20a47f86",
+								"localizedName": "Map: Inferno"
+							}
+						],
+						"game": {
+							"name": "Counter-Strike: Global Offensive"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxNjc4My4yMDM5NzE1NzY5MjQsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "40835591547",
+						"title": "(long stream) crossplay ✅ dark souls-style invasions ✅ - a john sniper story",
+						"viewersCount": 16783,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "MOONMOON"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Sniper Elite 5"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxNTY0OS41NTUyODc3MzI0MDYsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "45491813628",
+						"title": "GAME 7 WE LOCKED IN",
+						"viewersCount": 15649,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "yourragegaming"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Just Chatting"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxMjE5MC44NTQ2ODM4MjM2MTYsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "39366508967",
+						"title": "침철단 합방 (구독후원소리X)",
+						"viewersCount": 12190,
+						"language": "KO",
+						"broadcaster": {
+							"displayName": "침착맨"
+						},
+						"tags": [
+							{
+								"id": "ab2975e3-b9ca-4b1a-a93e-fb61a5d5c3a4",
+								"localizedName": "Korean"
+							}
+						],
+						"game": {
+							"name": "Just Chatting"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxMTk3OS4xMDgxMDEwMTg3MywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "39366717095",
+						"title": "俺を最強にしてくれ",
+						"viewersCount": 11979,
+						"language": "JA",
+						"broadcaster": {
+							"displayName": "fps_shaka"
+						},
+						"tags": [
+							{
+								"id": "6ba1d230-e52f-4d81-b1e0-41f25a8a9f5d",
+								"localizedName": "Japanese"
+							},
+							{
+								"id": "eaba0ad7-c4e1-4878-b37f-01308dbb65c8",
+								"localizedName": "No Spoilers"
+							}
+						],
+						"game": {
+							"name": "Sid Meier's Civilization VI"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxMTcyNi45ODU3MzQzNDIzNjEsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "39366529959",
+						"title": "casual gamer !Allstar !Nordvpn",
+						"viewersCount": 11420,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "Topsonous"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Dota 2"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxMTE0NC44MTM2NTQzODc1NTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "46498995629",
+						"title": "another rare OpTic yay stream | !youtube !twitter",
+						"viewersCount": 11144,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "yayster"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "VALORANT"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjoxMDE2MC41NzAxNjg2NjQxMTMsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "46498736861",
+						"title": "Smooth suck.",
+						"viewersCount": 10160,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "shroud"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "V Rising"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo5NzI4LjI2MjkzOTY5NDE2NywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46500363149",
+						"title": "ITS ALMOST JUNE",
+						"viewersCount": 9728,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "Flight23white"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Just Chatting"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo5MzA4LjMyMzg2NzM1NDg1LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+					"node": {
+						"id": "39366652007",
+						"title": "夜は番組出ててできないので昼配信",
+						"viewersCount": 9308,
+						"language": "JA",
+						"broadcaster": {
+							"displayName": "stylishnoob4"
+						},
+						"tags": [
+							{
+								"id": "6ba1d230-e52f-4d81-b1e0-41f25a8a9f5d",
+								"localizedName": "Japanese"
+							}
+						],
+						"game": {
+							"name": "Apex Legends"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo4MTgyLjY5MjczNjU0ODA2NywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46499755181",
+						"title": "COMBOBREAKER Finale & YoVideogames After (5-29) !nzxt",
+						"viewersCount": 8182,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "Maximilian_DOOD"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Guilty Gear: Strive"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo3OTA2LjgxODU5NTA1MTQ5MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46499891965",
+						"title": "SEN ShahZaM - RADIANT RANKED",
+						"viewersCount": 7906,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "ShahZaM"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "VALORANT"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo3ODgzLjczMjYzNjM0ODI4MjUsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "39461212776",
+						"title": "Awful SNES Games",
+						"viewersCount": 7883,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "Vinesauce"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Games + Demos"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo3NTkzLjczMjAwMDM5ODE1NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46498186941",
+						"title": "STARDUO RETURNS",
+						"viewersCount": 7593,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "TinaKitten"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							},
+							{
+								"id": "c2839af5-f1d2-46c4-8edc-1d0bfbd85070",
+								"localizedName": "Hype Train"
+							}
+						],
+						"game": {
+							"name": "Stardew Valley"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo3MzIwLjQ2ODYzNzY1ODYyNSwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "46500611021",
+						"title": "sick stream // Follow my socials @iiTzTimmy",
+						"viewersCount": 7320,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "iiTzTimmy"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Apex Legends"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo3MDQ0LjU2MzEzOTQ1ODc4NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "40836221595",
+						"title": "DOMINGO DE CHISME ( NUEVA ALERTA DE 20 SUBS )| REDES @dedreviil",
+						"viewersCount": 7044,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "elded"
+						},
+						"tags": [
+							{
+								"id": "d4bb9c58-2141-4881-bcdc-3fe0505457d1",
+								"localizedName": "Spanish"
+							}
+						],
+						"game": {
+							"name": "Overcooked! 2"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo2OTQ3LjA0ODIzNzYzOTcyMywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "39762745641",
+						"title": "Vibin' Out | !org | !scuf | !cc | !youtube | @DiazBiffle",
+						"viewersCount": 6947,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "DiazBiffle"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Call of Duty: Warzone"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo2NDk1LjE3ODA0ODM1MjA1NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "39366665079",
+						"title": "Ultimo stream en Korea :D",
+						"viewersCount": 6285,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "Josedeodo"
+						},
+						"tags": [
+							{
+								"id": "d4bb9c58-2141-4881-bcdc-3fe0505457d1",
+								"localizedName": "Spanish"
+							}
+						],
+						"game": {
+							"name": "League of Legends"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo2MTQ4LjI3NzU1OTE3OTQxMiwiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "40835339323",
+						"title": "KINGDOM HEARTS 24 HOUR BIRTHDAY STREAM! | !giveaway !alerts",
+						"viewersCount": 6148,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "ChilledChaos"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "Kingdom Hearts"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo1Njc5LjAxMDMxODk2NDcyMjUsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+					"node": {
+						"id": "39461283480",
+						"title": "BG NIGHT! | Check out our first 360 video! https://youtu.be/qWeH6WsBcTs",
+						"viewersCount": 5679,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "nl_Kripp"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							},
+							{
+								"id": "b157e8d6-b7ba-49f4-836f-09886c072f1f",
+								"localizedName": "Extension Enhanced"
+							}
+						],
+						"game": {
+							"name": "Hearthstone"
+						}
+					}
+				},
+				{
+					"cursor": "eyJzIjo1NTc1Ljc1NTc2MzQyOTIyMywiZCI6ZmFsc2UsInQiOnRydWV9",
+					"node": {
+						"id": "45490543244",
+						"title": "Valorant Grind | TGRD PROD",
+						"viewersCount": 5575,
+						"language": "EN",
+						"broadcaster": {
+							"displayName": "PROD"
+						},
+						"tags": [
+							{
+								"id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+								"localizedName": "English"
+							}
+						],
+						"game": {
+							"name": "VALORANT"
+						}
+					}
+				}
+			]
+		}
+	},
+	"extensions": {
+		"durationMilliseconds": 66,
+		"requestID": "01G49P5YDX7E2S3Q0ZB11DPX03"
+	}
+}

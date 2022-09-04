@@ -1,0 +1,6 @@
+/* Deletes the first 23 Youtube videos that 
+don't get overriden by Twitch streams */
+
+#contents ytd-rich-grid-row:nth-child(-n + 12) {
+	visibility: collapse;
+}
